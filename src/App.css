@@ -1,0 +1,9 @@
+.App {
+  text-align: center;
+}
+
+.App-canvas{
+  background-color: cornsilk;
+  border: 5px;
+  border-color: black;
+}
